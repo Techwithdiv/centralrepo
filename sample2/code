@@ -1,4 +1,1 @@
-int A=10;
-int B=20:
-int sum;
-printf("the sum of two numbers:"sum=A+B);
+The code is to add two integer numbers
